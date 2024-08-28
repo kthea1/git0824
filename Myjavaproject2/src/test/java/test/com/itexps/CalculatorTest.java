@@ -49,6 +49,5 @@ public class CalculatorTest {
     @Test
     public void TestAdd(){
         assertEquals(calc.add(2,2),4);
-               
     }
 }
